@@ -14,4 +14,4 @@ sudo bash install_package.sh
 ## Usage
 1. Move all heic files to seperate folder
 2. move heic_to_png.sh to same folder
-3. ```bash bash heic_to_png.sh ```
+3. ```bash heic_to_png.sh ```
