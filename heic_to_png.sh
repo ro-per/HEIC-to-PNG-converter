@@ -1,8 +1,5 @@
 #!/bin/bash
-# ------------------------ INSTALL USED LIB ------------------------
-apt-get install libheif-examples
 
-# ------------------------ GLOBALS ------------------------
 folder="*.HEIC"
 
 # ------------------------ FUNCTIONS ------------------------
